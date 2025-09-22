@@ -1,4 +1,4 @@
-# Portfolio-Demo
+# Portfolio
 
 This is my personal portfolio website built using **ReactJS**.
 
@@ -13,6 +13,6 @@ This is my personal portfolio website built using **ReactJS**.
 - Node.js (optional if backend used)
 
 ## Installation
+1. Clone the repository:
 ```bash
-npm install
-npm start
+git clone https://github.com/Abhijeet6277/Portfolio.git
